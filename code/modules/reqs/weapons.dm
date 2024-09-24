@@ -794,3 +794,60 @@
 	name = "Cupola tank magazine"
 	contains = list(/obj/item/ammo_magazine/tank/secondary_cupola)
 	cost = 10
+
+/datum/supply_packs/weapons/
+	name = ""
+	contains = list(/obj/item/ammo_magazine/rifle/ar12/ap)
+	cost = 50
+/datum/supply_packs/weapons/
+	name = ""
+	contains = list(/obj/item/ammo_magazine/rifle/ar12/hp)
+	cost = 50
+/datum/supply_packs/weapons/
+	name = ""
+	contains = list(/obj/item/ammo_magazine/rifle/type71/ap)
+	cost = 50
+/datum/supply_packs/weapons/
+	name = ""
+	contains = list(/obj/item/ammo_magazine/rifle/type71/hp)
+	cost = 50
+/datum/supply_packs/weapons/
+	name = ""
+	contains = list(/obj/item/ammo_magazine/smg/vector/ap)
+	cost = 50
+/datum/supply_packs/weapons/
+	name = ""
+	contains = list(/obj/item/ammo_magazine/smg/vector/hp)
+	cost = 50
+/datum/supply_packs/weapons/
+	name = ""
+	contains = list(/obj/item/ammo_magazine/packet/p9mm/ap)
+	cost = 50
+/datum/supply_packs/weapons/
+	name = ""
+	contains = list(/obj/item/ammo_magazine/packet/p9mm/hp)
+	cost = 50
+/datum/supply_packs/weapons/
+	name = ""
+	contains = list(/obj/item/ammo_magazine/packet/acp/ap)
+	cost = 50
+/datum/supply_packs/weapons/
+	name = ""
+	contains = list(/obj/item/ammo_magazine/packet/acp/hp)
+	cost = 50
+/datum/supply_packs/weapons/
+	name = ""
+	contains = list(/obj/item/ammo_magazine/packet/p10x24mm/ap)
+	cost = 50
+/datum/supply_packs/weapons/
+	name = ""
+	contains = list(/obj/item/ammo_magazine/packet/p10x24mm/hp)
+	cost = 50
+/datum/supply_packs/weapons/
+	name = ""
+	contains = list(/obj/item/ammo_magazine/pistol/vp70/hp)
+	cost = 50
+/datum/supply_packs/weapons/
+	name = ""
+	contains = list(/obj/item/ammo_magazine/pistol/vp70/incendiary)
+	cost = 50
